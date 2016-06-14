@@ -1,6 +1,6 @@
 # Simditor For Typecho
 
-这是一款为 Typecho 开发的非常好用的HTML编辑器插件，可替换掉 Typecho 内置的 Markdown 编辑器。另外本编辑器插件支持直接使用 Typecho 文件上传功能且内置了 Prism 代码高亮库及 ecode（易语言代码高亮库）。
+这是一款 Typecho 非常好用的HTML编辑器插件，可替换掉 Typecho 内置的 Markdown 编辑器。另外本编辑器插件支持直接使用 Typecho 文件上传功能且内置了 Prism 代码高亮库及 ecode（易语言代码高亮库）。
 
 
 # 使用方法
